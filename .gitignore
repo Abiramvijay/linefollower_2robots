@@ -1,0 +1,18 @@
+# ROS 2 colcon workspace artifacts
+build/
+install/
+log/
+
+# Python cache & packaging
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
